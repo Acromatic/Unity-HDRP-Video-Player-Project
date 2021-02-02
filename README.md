@@ -1,4 +1,6 @@
-# A-Generic-3d-Game-Project-For-Unity
-A game project to use as a base for creating a game.
+# Unity-HDRP-Video-Player-Project
+An example unity HDRP project with a video player movie screen added to the level.
 
-So far just a basic unity 3d project
+
+Last Updated 4:44PM EST 2/2/2021
+Unity Version 2020.2.2f1
