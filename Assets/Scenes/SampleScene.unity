@@ -26174,7 +26174,7 @@ VideoPlayer:
   - {fileID: 1290206528}
   m_DirectAudioVolumes:
   - 1
-  m_Url: file://C:/my downloads/Waiting (2005) [1080p]/Waiting.2005.BrRip.x264.YIFY.mp4
+  m_Url: file://./Assets/Videos/test.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1

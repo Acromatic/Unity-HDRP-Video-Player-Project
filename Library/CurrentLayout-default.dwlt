@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 21186
+  controlID: 352
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 21187
+  controlID: 353
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 21188
+  controlID: 354
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -445,10 +445,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 219}
-      m_SelectedIDs: 8e06e5ff
-      m_LastClickedID: -1767794
-      m_ExpandedIDs: f06ee3ff70cde5ff2a6bedff3c51f5ff3ee8ffff66e8ffff5af4ffff5efafffffe6b0000986c0000ea6c0000926d0000706e00007a7000000e710000ee7100004c72000058720000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: c6530000
+      m_LastClickedID: 21446
+      m_ExpandedIDs: 54fbffff184e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -651,22 +651,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/VideoPlayer
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\My Stuff\Test Projects\Unity-HDRP-Universe-Project
+  m_LastProjectPath: C:\Users\iammi\Documents\GitHub\Unity-HDRP-Video-Player-Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 02860000
-    m_LastClickedID: 34306
-    m_ExpandedIDs: 00000000f885000098a4000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 9}
+    m_SelectedIDs: b2670000
+    m_LastClickedID: 26546
+    m_ExpandedIDs: 00000000b2670000b467000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -694,7 +694,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f885000098a4000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000b2670000b467000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
