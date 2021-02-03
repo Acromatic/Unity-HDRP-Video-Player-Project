@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637478981220594995
+      ticks: 637479072325712438
     m_Hash: 1312126766
   m_LockFileStatus:
     m_FilePath: C:/Users/iammi/Documents/GitHub/Unity-HDRP-Video-Player-Project/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637479037290474108
+      ticks: 637479072960476578
     m_Hash: 3595124353
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
